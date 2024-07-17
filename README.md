@@ -90,6 +90,9 @@ How to Cook
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
+- [红烧排骨](./dishes/meat_dish/红烧排骨.md)
+- 菌菇炖乌鸡
+- 咖喱鸡
 
 做法有差异的
 
@@ -98,6 +101,8 @@ How to Cook
 
 待尝试
 
+- 小酥肉
+- [小酥肉](./dishes/meat_dish/小酥肉.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
@@ -110,6 +115,8 @@ How to Cook
 - [西红柿土豆炖牛肉](./dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
+- [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
+- [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 
 ### 水产
 
@@ -122,9 +129,23 @@ How to Cook
 - [红烧鱼](./dishes/aquatic/红烧鱼.md)
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
+
+待尝试
+
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
+- [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
+- [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
+- [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
+
+### 半成品加工
+
+- 豆豉鱼油麦菜
+- [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
+- [速冻水饺](./dishes/semi-finished/速冻水饺.md)
+- [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 
 ## 参考
 
 - [工具：熊猫图片压缩](https://tinify.cn/)
 - https://github.com/Anduin2017/HowToCook
+- http://food.zuo11.com/
