@@ -90,7 +90,8 @@ How to Cook
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
-- [红烧排骨](./dishes/meat_dish/红烧排骨.md)
+- [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
+- [红烧牛肉](./dishes/meat_dish/红烧牛肉/红烧牛肉.md)
 - 菌菇炖乌鸡
 - 咖喱鸡
 
