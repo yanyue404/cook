@@ -102,7 +102,6 @@ How to Cook
 
 待尝试
 
-- 小酥肉
 - [小酥肉](./dishes/meat_dish/小酥肉.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
@@ -118,6 +117,7 @@ How to Cook
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
+- [肉末豆腐](./dishes/meat_dish/肉末豆腐/肉末豆腐.md)
 
 ### 水产
 
