@@ -87,8 +87,7 @@ How to Cook
 
 我做过的
 
-- [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
-- [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
+- [红烧肉](./dishes/meat_dish/红烧肉/红烧肉.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 - [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [红烧牛肉](./dishes/meat_dish/红烧牛肉/红烧牛肉.md)
@@ -113,7 +112,7 @@ How to Cook
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
 - [糖醋排骨](./dishes/meat_dish/糖醋排骨/糖醋排骨.md)
 - [西红柿土豆炖牛肉](./dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
-- [小炒肉](./dishes/meat_dish/小炒肉.md)
+- [小炒五花肉](./dishes/meat_dish/小炒肉/小炒五花肉.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
@@ -144,6 +143,10 @@ How to Cook
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
+
+## 饮品
+
+- 茶：蒲公英根茶 + 冰糖 + 桂花
 
 ## 参考
 
