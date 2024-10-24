@@ -91,6 +91,7 @@ How to Cook
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 - [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [红烧牛肉](./dishes/meat_dish/红烧牛肉/红烧牛肉.md)
+- [萝卜炖牛腩](./dishes/meat_dish/萝卜炖牛腩.md)
 - 菌菇炖乌鸡
 - 咖喱鸡
 
@@ -123,6 +124,7 @@ How to Cook
 我做过的
 
 - [蒜蓉虾](./dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
+- [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md) （同清蒸鲟鱼、草鱼）
 
 待熟练
 
@@ -135,7 +137,6 @@ How to Cook
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
-- [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 
 ### 半成品加工
 
