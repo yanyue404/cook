@@ -93,7 +93,7 @@ How to Cook
 - [红烧排骨](./dishes/meat_dish/红烧排骨/红烧排骨.md)
 - [红烧牛肉](./dishes/meat_dish/红烧牛肉/红烧牛肉.md)
 - [萝卜炖牛腩](./dishes/meat_dish/萝卜炖牛腩.md)
-- 菌菇炖乌鸡
+- [菌菇炖乌鸡](./dishes/meat_dish/菌菇炖乌鸡.md)
 - 咖喱鸡
 
 做法有差异的
