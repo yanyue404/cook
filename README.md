@@ -42,6 +42,7 @@ How to Cook
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 - [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 - [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
+- [疙瘩汤](./dishes/soup/疙瘩汤/疙瘩汤.md)
 
 ### 主食
 
