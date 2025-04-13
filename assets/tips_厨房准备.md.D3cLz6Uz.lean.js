@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as t,ae as p}from"./chunks/framework.3ZWff6mY.js";const u=JSON.parse('{"title":"厨房准备","description":"","frontmatter":{},"headers":[],"relativePath":"tips/厨房准备.md","filePath":"tips/厨房准备.md"}'),n={name:"tips/厨房准备.md"};function i(l,a,c,o,d,h){return t(),e("div",null,a[0]||(a[0]=[p("",12)]))}const g=s(n,[["render",i]]);export{u as __pageData,g as default};
