@@ -1,0 +1,30 @@
+{
+  "name": "cook",
+  "version": "1.0.0",
+  "description": "How to Cook",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyue404/cook.git"
+  },
+  "keywords": [
+    "cook",
+    "菜谱",
+    "做饭",
+    "程序员做饭指南"
+  ],
+  "author": "yanyue404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanyue404/cook/issues"
+  },
+  "homepage": "https://github.com/yanyue404/cook#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.40",
+    "vue": "^3.4.19"
+  }
+}
