@@ -5,7 +5,8 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
